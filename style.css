@@ -24,10 +24,12 @@
     width:30%;
     height: 300px;
     border: 2px black solid;
-    background-color: aquamarine;
+    background-color: #008B8B 
+    ;
 
 }
 .contant{
+    color:white;
     padding-left: 10px;
     padding-top: 20px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
