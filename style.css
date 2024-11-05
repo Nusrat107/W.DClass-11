@@ -1,0 +1,37 @@
+*{
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+}
+.hero {
+    background-image: url("IMG_3903-scaled.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 300px;
+    font-size: 30px;
+    color: yellow;
+}
+.box{
+    padding-left: 30px;
+    padding-top: 20px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    float: left;
+    margin-top: 40px;
+    margin-left: 1%;
+    width:30%;
+    height: 300px;
+    border: 2px black solid;
+    background-color: aquamarine;
+
+}
+.contant{
+    padding-left: 10px;
+    padding-top: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   
+}
+
+
